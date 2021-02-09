@@ -8,4 +8,7 @@ public class AppClass1 {
 
     }
 
+    public void method2(){
+
+    }
 }
