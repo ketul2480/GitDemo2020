@@ -7,4 +7,11 @@ public class AppClass2 {
         System.out.println("doing something");
 
     }
-}
+
+    public void doSomethingElse() {
+
+        System.out.println("doing something else");
+
+        }
+
+    }
