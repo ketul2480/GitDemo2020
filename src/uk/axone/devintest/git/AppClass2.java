@@ -8,10 +8,8 @@ public class AppClass2 {
 
     }
 
-    public void doSomethingElse() {
+    public void doSomethingElse(){
 
         System.out.println("doing something else");
-
-        }
 
     }
